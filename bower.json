@@ -1,7 +1,7 @@
 {
-  "name": "laravel-angularjs-admin",
+  "name": "Website Uptime Monitor",
   "authors": [
-    "Alex Quiambao <alexquiambao@gmail.com>"
+    "Alexander Dolgunin <a.dolgunin@gmail.com>"
   ],
   "ignore": [
     "**/.*",

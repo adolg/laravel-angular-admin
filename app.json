@@ -1,15 +1,15 @@
 {
-  "name": "Laravel Angular Admin",
-  "description": "Laravel + Angularjs + Bootstrap + AdminLTE binded by Gulp workflow Admin Dashboard Boilerplate / Starter.",
+  "name": "Website Uptime Monitor",
+  "description": "A simple Website Uptime Monitor based on Laravel, Angular and Bootstrap",
   "keywords": [
     "laravel",
     "angular",
     "admin",
-    "boilerplate",
-    "starter kit"
+    "uptime",
+    "monitor"
   ],
   "website": "http://silverbux.github.io/laravel-angular-admin/",
-  "repository": "https://github.com/silverbux/laravel-angular-admin/tree/deploy-to-heroku",
+  "repository": "https://github.com/adolg/laravel-angular-admin/",
   "scripts": {
     "postdeploy": "composer install"
   },
